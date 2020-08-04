@@ -1,6 +1,6 @@
 # Tarefas
 
-## 1º Dia - **Completado :muscle::rage1:**
+## 1º Dia
 - [x] Conhecer a aplicação
 - [x] Conhecer o ambiente de desenvolvimento
 - [ ] Conhecer os conceitos do ReactJS
