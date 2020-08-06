@@ -3,21 +3,21 @@
 ## 1º Dia
 - [x] Conhecer a aplicação
 - [x] Conhecer o ambiente de desenvolvimento
-- [ ] Conhecer os conceitos do ReactJS
+- [x] Conhecer os conceitos do ReactJS
 - - [x] Interfaces
 - - [x] Construção de SPAs
-- - [ ] React / ReactJS / React Native
-- [ ] Criar o projeto
-- [ ] Limpando estrutura
-- [ ] Explicando conceitos
-- - [ ] `index.html` e `div#root`
-- - [ ] JSX
-- - [ ] Componentes
+- - [x] React / ReactJS / React Native
+- [x] Criar o projeto
+- [x] Limpando estrutura
+- [x] Explicando conceitos
+- - [x] `index.html` e `div#root`
+- - [x] JSX
+- - [x] Componentes
 - - [ ] Propriedade
 - - [ ] Estado
-- [ ] Criando estilos globais
-- [ ] Criando estrutura da landing page
-- [ ] Estilizando lading page
+- [x] Criando estilos globais
+- [x] Criando estrutura da landing page
+- [x] Estilizando lading page
 - [ ] Configurando naveção do app
 - [ ] Estruturando listagem de professores
 - [ ] Estilizando listagem de professores
